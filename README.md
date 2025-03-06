@@ -1,10 +1,10 @@
-Customer Segmentation using K-Means Clustering
+#Customer Segmentation using K-Means Clustering
 
-Overview
+#Overview
 
 This project performs customer segmentation using the Mall Customers dataset from Kaggle. The goal is to cluster customers into different segments based on their spending behavior and demographic features using the K-Means clustering algorithm.
 
-Dataset
+#Dataset
 
 The dataset contains information about mall customers, including:
 
@@ -18,7 +18,7 @@ Annual Income (k$)
 
 Spending Score (1-100)
 
-Methodology
+#Methodology
 
 Data Preprocessing: Loaded and cleaned the dataset.
 
